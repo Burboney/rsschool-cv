@@ -1,1 +1,1 @@
-# rsschool-cv
+https://burboney.github.io/rsschool-cv/
