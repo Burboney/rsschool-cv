@@ -1,1 +1,1 @@
-https://burboney.github.io/rsschool-cv/cv
+https://burboney.github.io/rsschool-cv/
